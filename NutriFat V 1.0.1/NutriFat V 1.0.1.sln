@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriFat V 1.0.1", "NutriFat V 1.0.1\NutriFat V 1.0.1.csproj", "{72D860B7-075C-4E00-9AF1-F9578BCD1AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D860B7-075C-4E00-9AF1-F9578BCD1AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D860B7-075C-4E00-9AF1-F9578BCD1AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D860B7-075C-4E00-9AF1-F9578BCD1AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D860B7-075C-4E00-9AF1-F9578BCD1AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A76281-18AF-4297-B7BD-61A56CA5F181}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\NutriFat V 1.0.1.exe.config
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\NutriFat V 1.0.1.exe
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\NutriFat V 1.0.1.pdb
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.csprojAssemblyReference.cache
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.Form1.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.Properties.Resources.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.csproj.GenerateResource.cache
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.exe
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.pdb
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.csproj.CopyComplete
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.UserRegister.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\AltoControls.dll
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.t.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\NutriFat V 1.0.1.exe.config
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\NutriFat V 1.0.1.exe
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\NutriFat V 1.0.1.pdb
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\AltoControls.dll
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.csprojAssemblyReference.cache
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.Form1.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.Properties.Resources.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.UserRegister.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.t.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.csproj.GenerateResource.cache
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.csproj.CopyComplete
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.exe
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat V 1.0.1.pdb
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\obj\Debug\NutriFat_V_1._0._1.DataOutput.resources
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\CircularProgressBar.dll
+C:\Users\plive\Documents\Programación\C#\Proyectos Cbtis 119\Windows_Froms\Backup NutriFat V1.0.1\NutriFat v1.0.1\NutriFat V 1.0.1\NutriFat V 1.0.1\bin\Debug\WinFormAnimation.dll
